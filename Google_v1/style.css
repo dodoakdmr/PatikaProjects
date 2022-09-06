@@ -1,0 +1,98 @@
+.box {
+    width: 75%;
+    height: 100px;
+    margin: auto    ;
+    background-color: rgb(48, 52, 67);
+    padding-bottom: 0px;
+    margin-bottom: 0ch;
+    border-radius: 25px;
+}
+
+.search {
+    width: 30%;
+    display: flex;
+    margin: auto;
+    margin-top: 0px;
+    padding-top:0px ;
+}
+
+.buton {
+    width: 50%;
+    display: block;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    margin-top: 2px;
+    background-color: aqua;
+}
+
+.card {
+    width: 15%;
+    height: 100px;
+    position: relative;
+    left: 22%;
+    float: left;
+    background-color: rgb(11, 12, 18); 
+    margin: auto;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+.card2 {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 45px;
+
+}
+
+.button-card {
+    background-color: blueviolet;
+    width: 20.5%;
+    margin: auto;
+    
+    
+}
+
+.text {
+    margin: auto;
+    text-align: center  ;
+
+}
+
+button {
+    float: left;
+    display: flex;
+    margin: 2px;
+    
+}
+
+ul {
+    color: azure;
+    text-align: center;
+    
+}
+
+
+h2,h4,h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: calc(0.25rem + .75vw);
+    text-align: center;
+    color: white;
+    padding: 0.5%;
+    margin-bottom: 0px;
+    
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 2px;
+    margin: auto;
+}
+
+body {
+    background-color: rgb(25, 28, 38);
+}
