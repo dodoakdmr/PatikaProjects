@@ -1,0 +1,49 @@
+body{
+    background-color:#E9ECEF;
+}
+
+
+.card {
+    
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 10px;
+    float: left;
+}   
+
+.text-dark{
+    color: gray;
+    font-family: system-ui;
+}
+
+p {
+    text-align: left;
+}
+
+h3 {
+    margin-top: 5px;
+}
+
+.p2 {
+    color: black;
+    text-align: center;
+    font-size: 14px;
+}
+
+.liste {
+    position: relative;
+    display: flex;
+    margin: auto;
+    background-color: aqua;
+    align-items: center;
+}
+
+.row-list {
+    margin-bottom: 30px;
+}
